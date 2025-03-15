@@ -1,6 +1,8 @@
 # AngularJest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+#Angular Product Inventory Management 🚀
+This is a web-based product inventory management system built using Angular 15. It allows users to add, update, view, and delete products.
 
 ## Development server
 
