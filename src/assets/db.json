@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "harshavardhanchokkala567@gmail.com",
+      "password": "qwerty123",
+      "firstName": "Harsha",
+      "lastName": "vardhan",
+      "location": "Hyderabad",
+      "mobileNumber": "9640484897",
+      "id": 3
+    },
+    {
+      "email": "qwerty@gmail.com",
+      "password": "123456789",
+      "firstName": "qwerty",
+      "lastName": "keyboard",
+      "location": "computer",
+      "mobileNumber": "0987654321",
+      "id": 4
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "firstName": "Nolan",
+      "lastName": "Christopher",
+      "location": "America",
+      "mobileNumber": "5856314789",
+      "id": 6
+    },
+    {
+      "email": "harshavardhanchokkala567@gmail.com",
+      "password": "patel1336",
+      "firstName": "Harsha",
+      "lastName": "Vardhan",
+      "location": "korutla",
+      "mobileNumber": "9640484897",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Car",
+      "description": "Innova",
+      "manufacturer": "Toyota",
+      "price": 60000000,
+      "quantity": 1,
+      "id": 1742055235532
+    }
+  ]
+}
